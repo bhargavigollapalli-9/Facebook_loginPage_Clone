@@ -1,0 +1,111 @@
+.header{
+	/*line-height: 80px;*/
+	background-color: #3b5998;
+	display: flex;
+}
+.heading{
+	font-size: 40px;
+	color: white;
+	font-family: sans-serif,arial;
+	font-weight: bold;
+	letter-spacing: -1px;
+	padding: 28px 0px 15px 150px;
+}
+.side{
+	padding: 18px 80px 6px 0px;
+	color: white;
+	font-family: sans-serif,arial;
+	font-size: 12px;
+}
+.forgot{
+	color:#9cb4d8;
+	font-family: helvetica,sans-serif,arial;
+	font-size: 12px;
+	font-weight: normal;
+	cursor: pointer;
+	margin-top: 5px;
+}
+.log{
+	margin: 39px 134px 28px 14px;
+	font-family: sans-serif,arial;
+	background-color: #4267B2;
+	border:1px solid black;
+	color: #FFF;
+	padding-top: 3px;
+	padding-bottom: 3px
+}
+.text1{
+	margin-top: 40px;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #0e385f;
+	line-height: 29px;
+	width: 450px;
+}
+.space{
+	margin: 0 auto;
+		position: relative;
+	width: 980px;
+	display: flex;
+}
+.logoconnect{
+height:250px;
+width:550px;
+}
+.create{
+	padding-top: 20px;
+	padding-bottom:10px;
+	color: #333;
+	font-weight: 600;
+	font-size: 36px;
+	margin-bottom: 5px;
+	font-family: helvetica,arial,sans-serif;
+}
+.box{
+	width:190px;
+	height:35px;
+	font-size:18px;
+	border-radius: 5px;
+	border:1px solid #a6a6a6;
+	padding-left: 8px;
+	margin-right: 12px;
+	margin-bottom: 10px;
+}
+.birth{
+	color: #52527a;
+	font-weight: bold;
+	font-size:17px;
+	font-family: sans-serif;
+	padding-bottom: 5px;
+}
+.gen{
+	padding-right: 10px;
+	font-family: sans-serif;
+	color:#333;
+	font-size:18px;
+}
+.line1{
+	text-decoration: none;
+}
+.signup{
+	border: 1px solid black;
+	width: 190px;
+	height: 28px;
+    background-color: #2d862d;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.last{
+	padding-top: 30px;
+	font-family: sans-serif,arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+}
